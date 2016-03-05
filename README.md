@@ -1,2 +1,0 @@
-# akilli-ev-index
-index
