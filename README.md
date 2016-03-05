@@ -1,2 +1,1 @@
-# akilli-ev-index
-index
+index raspberry pi gpio pinlerini çalıştırmıyor :(
